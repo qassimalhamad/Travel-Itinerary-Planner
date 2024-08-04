@@ -1,0 +1,9 @@
+
+/* src/App.css */
+.visited {
+  text-decoration: line-through;
+}
+
+.not-visited {
+  color: red;
+}
